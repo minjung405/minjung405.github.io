@@ -24,3 +24,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #외부 링크 새 탭으로 열기
 gem 'jekyll-target-blank'
+
+#구글 서치 콘솔
+#gem 'jekyll-sitemap'

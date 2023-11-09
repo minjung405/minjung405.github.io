@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://minjung405.github.io/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/categories/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/tags/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/archives/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/about/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/tags/blog/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/tags/chirpy/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/tags/github-blog/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/tags/github/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/tags/%EA%B9%83%ED%97%88%EB%B8%8C/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/tags/%EA%BE%B8%EB%AF%B8%EA%B8%B0/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/categories/github-blog/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://minjung405.github.io/posts/chirpy-%ED%85%8C%EB%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0/</loc>
+  <lastmod>2023-11-09T07:57:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
