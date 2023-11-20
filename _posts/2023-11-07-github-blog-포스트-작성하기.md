@@ -11,7 +11,7 @@ tags: [chirpy, blog, github, github blog, 깃허브, post, markdown, comments, d
 [GitHub Blog_1 chirpy 테마 블로그 꾸미기](https://minjung405.github.io/posts/chirpy-%ED%85%8C%EB%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0/)\
 [GitHub Blog_2 github blog 포스트 작성하기]()\
 [GitHub Blog_3 markdown 파일 작성하기]()\
-[GitHub Blog_4 github blog와 google 연동하기]()
+[GitHub Blog_4 github blog와 google 연동하기](https://minjung405.github.io/posts/github-blog%EC%99%80-google-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/)
 
 
 ## markdown 파일 생성
