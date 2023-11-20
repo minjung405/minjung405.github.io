@@ -11,7 +11,7 @@ tags: [chirpy, blog, github, github blog, 깃허브, post, markdown, comments, d
 [GitHub Blog_1 chirpy 테마 블로그 꾸미기](https://minjung405.github.io/posts/chirpy-%ED%85%8C%EB%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0/)\
 [GitHub Blog_2 github blog 포스트 작성하기]()\
 [GitHub Blog_3 markdown 파일 작성하기]()\
-[GitHub Blog_4 Google Search Console 사용하기]()
+[GitHub Blog_4 github blog와 google 연동하기]()
 
 
 ## markdown 파일 생성
@@ -25,7 +25,7 @@ tags: [chirpy, blog, github, github blog, 깃허브, post, markdown, comments, d
 +/-TTTT는 `_config.yml`{: .filepath}의 timezone (예: seoul 이면 +09:00)이고,\
 **categories는 최대 2개, 태그는 제한없이(0개 이상) 작성** 가능해요.
 
-![way4](/assets/img/2023.11.07/way4.png)
+![way4](/assets/img/post_image/2023.11.07/way4.png)
 _기본 형식 4가지_
 
 
@@ -35,7 +35,7 @@ _기본 형식 4가지_
 1. 모든 게시글에서 보여주고 싶지 않을 경우: `_config.yml`{: .filepath}에서 **toc 부분** false 하기
 2. 특정 게시글에서만 보여주고 싶지 않을 경우: 게시글 작성 시 기본 형식에 **toc: false** 추가하기
 
-![toc](/assets/img/2023.11.07/toc.png)
+![toc](/assets/img/post_image/2023.11.07/toc.png)
 _기본 형식에 toc: false 추가_
 
 
@@ -46,11 +46,11 @@ _기본 형식에 toc: false 추가_
 2. [**disqus start**](https://disqus.com/admin/) 접속해서 가입할 때 입력한 shortname과 블로그 주소 입력하기\
 (로그인 후 자신의 프로필 누르고, settings 누르면 http://disqus.com/by/뒤에 자신의 shortname 확인 가능)
 3. `_config.yml`{: .filepath}에서 **comments의 active 부분** active: disqus로 바꿔주기
-![disqus](/assets/img/2023.11.07/disqus.png)
+![disqus](/assets/img/post_image/2023.11.07/disqus.png)
 
 게시글 하단에 다음과 같이 disqus가 활성화되면, 다른 사람들이 댓글을 달 수 있어요.
 
-![comments_dis](/assets/img/2023.11.07/comments_dis.png)
+![comments_dis](/assets/img/post_image/2023.11.07/comments_dis.png)
 
 
 ## 댓글 비활성화하기
@@ -59,7 +59,7 @@ _기본 형식에 toc: false 추가_
 1. 모든 게시글 비활성화: `_config.yml`{: .filepath}에서 **comments 부분**의 active 빈칸으로 두기
 2. 특정 게시글에서만 비활성화: 게시글 작성 시 기본 형식에 **comments: false** 추가하기
 
-![comments](/assets/img/2023.11.07/comments.png)
+![comments](/assets/img/post_image/2023.11.07/comments.png)
 _기본 형식에 comments: false 추가_
 
 
