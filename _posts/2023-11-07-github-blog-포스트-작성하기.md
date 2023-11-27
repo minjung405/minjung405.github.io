@@ -18,19 +18,21 @@ tags: [chirpy, blog, github, github blog, 깃허브, post, markdown, comments, d
 1. `_posts`{: .filepath}폴더에 새 파일을 만들기
 2. 파일 이름은 **YYYY-MM-DD-파일-이름.md** 형식으로 작성하기
 
+![markdown_file](/assets/img/post_image/2023.11.07/markdown_file.png)
+_파일 이름_
 
 ## 포스트 기본 형식
 > 포스트를 쓸 때 제일 처음, 고정으로 써야하는 기본 형식 4가지가 있어요.\
 (author도 작성하고 싶다면 추가해줘도 돼요. 저는 author는 생략 했어요.)\
 +/-TTTT는 `_config.yml`{: .filepath}의 timezone (예: seoul 이면 +09:00)이고,\
-**categories는 최대 2개, 태그는 제한없이(0개 이상) 작성** 가능해요.
+**categories는 최대 2개(파일 안의 파일 형식), 태그는 제한없이(0개 이상) 작성** 가능해요.
 
 ![way4](/assets/img/post_image/2023.11.07/way4.png)
 _기본 형식 4가지_
 
 
 ## 게시글 목차 비활성화하기
-> 게시글 오른쪽에 글의 차례를 보여주고 싶지 않다면, toc을 이용하면 돼요.
+> 게시글 오른쪽에 위치한 Contents(글의 차례)를 보여주고 싶지 않다면, toc을 이용하면 돼요.
 
 1. 모든 게시글에서 보여주고 싶지 않을 경우: `_config.yml`{: .filepath}에서 **toc 부분** false 하기
 2. 특정 게시글에서만 보여주고 싶지 않을 경우: 게시글 작성 시 기본 형식에 **toc: false** 추가하기
