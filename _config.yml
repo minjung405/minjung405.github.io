@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: mung_log # the main title
 
-tagline: 멍주다배 하루 남기기 # it will display as the sub-title
+tagline: 멍주다배 기록하기 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   nlp, 자연어처리, python, chatbot, 챗봇, kaggle, 논문

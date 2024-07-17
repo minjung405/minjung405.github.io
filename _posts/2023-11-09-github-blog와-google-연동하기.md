@@ -10,7 +10,7 @@ tags: [chirpy, blog, github, github blog, 깃허브, google, Google Search Conso
 
 [GitHub Blog_1 chirpy 테마 블로그 꾸미기](https://minjung405.github.io/posts/chirpy-%ED%85%8C%EB%A7%88-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0/)\
 [GitHub Blog_2 github blog 포스트 작성하기](https://minjung405.github.io/posts/github-blog-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0/)\
-[GitHub Blog_3 markdown 파일 작성하기]()\
+[GitHub Blog_3 markdown 파일 작성하기](https://minjung405.github.io/posts/markdown-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0/)\
 [GitHub Blog_4 github blog와 google 연동하기]()
 
 
